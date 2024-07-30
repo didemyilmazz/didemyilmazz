@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**didemyilmazz/didemyilmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Data Scientist with a background in production planning. Recently graduated from the Le Wagon intensive Data
 Science bootcamp.
