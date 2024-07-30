@@ -3,14 +3,18 @@
 <!--
 **didemyilmazz/didemyilmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Data Scientist with a background in production planning. Recently graduated from the Le Wagon intensive Data
+Science bootcamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🌱 I’m currently learning:
+  - Advanced machine learning techniques
+  - Data engineering concepts
+  - New programming languages and tools
+
+- 💬 Ask me about:
+  - Data science and analytics
+  - Production planning and operations
+  - Insights from my experience at Le Wagon
+  
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/didemylmz/)
+
