@@ -4,9 +4,9 @@ Data Scientist with a background in production planning. Recently graduated from
 Science bootcamp.
 
  🌱 I’m currently learning:
-  - Advanced machine learning techniques
-  - Data engineering concepts
-  - New programming languages and tools
+   - Advanced machine learning techniques
+   - Data engineering concepts
+   - New programming languages and tools
 
 - 💬 Ask me about:
   - Data science and analytics
