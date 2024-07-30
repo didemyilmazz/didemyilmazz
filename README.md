@@ -8,10 +8,10 @@ Science bootcamp.
    - Data engineering concepts
    - New programming languages and tools
 
-- 💬 Ask me about:
-  - Data science and analytics
-  - Production planning and operations
-  - Insights from my experience at Le Wagon
+ 💬 Ask me about:
+   - Data science and analytics
+   - Production planning and operations
+   - Insights from my experience at Le Wagon
   
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/didemylmz/)
+ 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/didemylmz/)
 
