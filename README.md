@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 Data Scientist with a background in production planning. Recently graduated from the Le Wagon intensive Data
-Science bootcamp.
+Science bootcamp. 
 
- 🌱 I’m currently learning:
-   - Advanced machine learning techniques
-   - Data engineering concepts
-   - New programming languages and tools
+ 🔶 Currently learning more about machine learning and AI. 
+
+ 🔶 Open to collaborating on interesting projects.
+
 
  💬 Ask me about:
    - Data science and analytics
